@@ -22,17 +22,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "918348225320" //ur owner number2
-global.ownername = "🦄Dream Guy Deepak" //ur owner name
-global.ytname = "YT: Deepak" //ur yt chanel name
-global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
-global.location = "India, West Bengal, Darjeeling" //ur location
+global.ownernomer = "918689911747" //ur owner number2
+global.ownername = "🦄Dream Guy Santosh" //ur owner name
+global.ytname = "YT: SB" //ur yt chanel name
+global.socialm = "GitHub: sbhacker042006" //ur github or insta name
+global.location = "India, Mumbai, chembur" //ur location
 
 //new
 global.botname = "Zenitsu-Bot MD"
-global.ownernumber = '918348225320'
-global.ownername = '🦄Dream Guy Deepak'
-global.ownerNumber = ["918348225320@s.whatsapp.net"]
+global.ownernumber = '918689911747'
+global.ownername = '🦄Dream Guy Santosh'
+global.ownerNumber = ["918689911747@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@dreamguydeepak"
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"
@@ -40,8 +40,8 @@ global.themeemoji = '🦄'
 global.wm = "Deepak Bot Inc."
 global.botscript = 'https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835' //script link
 global.packname = "Sticker By"
-global.author = "🦄Dream Guy Deepak"
-global.creator = "918348225320@s.whatsapp.net"
+global.author = "🦄Dream Guy Santosh"
+global.creator = "918689911747@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
